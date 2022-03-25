@@ -33,10 +33,9 @@ header nav {
   font-size: 20px;
 }
 
-/* removed list styling because I was unsure of source code's functionality */
-/* header nav ul {
+header nav ul {
   list-style-type: none;
-} */
+}
 
 header nav ul li {
   display: inline-block;
